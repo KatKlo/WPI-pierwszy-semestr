@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/Boulder_Dash.dir/main.c.o  -o Boulder_Dash 
