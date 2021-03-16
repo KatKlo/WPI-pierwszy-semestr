@@ -1,0 +1,3 @@
+/home/kasia/Documents/studia/wpi/laboratoria/6/SET/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/kasia/Documents/studia/wpi/laboratoria/6/SET/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/kasia/Documents/studia/wpi/laboratoria/6/SET/cmake-build-debug/CMakeFiles/SET.dir
